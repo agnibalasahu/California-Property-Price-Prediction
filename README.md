@@ -36,8 +36,8 @@ This project answers that question using **machine learning and regression analy
 ```
 📦 California-Property-Price-Prediction
  ┣ 📓 California_Property_Price_Prediction.ipynb   ← Main notebook (start here!)
- ┣ 📄 README.md                                    ← You are here
- ┗ 📊 Price_Prediction.csv                         ← Dataset (20,640 records)
+ ┣ 📊 Price_Prediction.csv                         ← Dataset (20,640 records)
+ ┗ 📄 README.md                                    ← You are here
 ```
 
 ---
@@ -101,8 +101,6 @@ Uses only `median_income` — the single strongest predictor.
 ```
 median_house_value = slope × median_income + intercept
 ```
-
----
 
 ### 2️⃣ Multiple Linear Regression
 > All features. Full power. Real-world complexity.
@@ -181,9 +179,13 @@ jupyter notebook California_Property_Price_Prediction.ipynb
 
 <div align="center">
 
-Made with ❤️ and lots of ☕
+**Agnibal Asahu**
+🎓 Student | Data Science & Machine Learning
 
-*Part A — Property Price Prediction Project*
-*Machine Learning | Regression Analysis*
+[![GitHub](https://img.shields.io/badge/GitHub-agnibalasahu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agnibalasahu)
+
+<br/>
+
+*Part A — Property Price Prediction | Machine Learning | Regression Analysis*
 
 </div>
