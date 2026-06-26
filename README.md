@@ -37,7 +37,7 @@ This project answers that question using **machine learning and regression analy
 📦 California-Property-Price-Prediction
  ┣ 📓 California_Property_Price_Prediction.ipynb   ← Main notebook (start here!)
  ┣ 📄 README.md                                    ← You are here
- ┗ 📊 housing.csv                                  ← Dataset (20,640 records)
+ ┗ 📊 Price_Prediction.csv                                  ← Dataset (20,640 records)
 ```
 
 ---
