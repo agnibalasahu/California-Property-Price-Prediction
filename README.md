@@ -179,8 +179,8 @@ jupyter notebook California_Property_Price_Prediction.ipynb
 
 <div align="center">
 
-**Agnibal Asahu**
-🎓 Student | Data Science & Machine Learning
+**Agnibala Sahu**
+🎓 Student | Artificial Inteligence and Machine Learning
 
 [![GitHub](https://img.shields.io/badge/GitHub-agnibalasahu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agnibalasahu)
 
